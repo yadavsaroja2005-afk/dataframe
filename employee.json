@@ -1,9 +1,0 @@
-[
-  {"ID":1,"Name":"Abhishek","Age":25,"Department":"IT","Salary":40000},
-  {"ID":2,"Name":"Rahul","Age":30,"Department":"HR","Salary":35000},
-  {"ID":3,"Name":"Priya","Age":28,"Department":"IT","Salary":42000},
-  {"ID":4,"Name":"Anita","Age":null,"Department":"Finance","Salary":50000},
-  {"ID":5,"Name":"Rohan","Age":35,"Department":"HR","Salary":null},
-  {"ID":6,"Name":"Neha","Age":29,"Department":"IT","Salary":45000},
-  {"ID":7,"Name":"Amit","Age":40,"Department":"Finance","Salary":60000}
-]
